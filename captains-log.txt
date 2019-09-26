@@ -141,3 +141,14 @@ Artist(s) Name: Ninja Sex Party
 Preview Me: https://api.spotify.com/v1/tracks/6aYtgkHVTgzWFAmpEgP70C
 Album: NSFWListen on Spotify: https://open.spotify.com/album/635ywJQ35EchqQ8wYdFPXp
 ___________________________________________
+==========Star Log year 2019==========
+
+Artist(s) Name: Ninja Sex Party
+Preview Me: https://api.spotify.com/v1/tracks/6aYtgkHVTgzWFAmpEgP70C
+Album: NSFWListen on Spotify: https://open.spotify.com/album/635ywJQ35EchqQ8wYdFPXp
+___________________________________________
+==========Star Log year 2019==========
+Venue Name: NOTO Philadelphia (DJ Set)
+Venue Coordinates: Waynesboro
+Event Date: 09-27-2019
+___________________________________________

@@ -2,9 +2,9 @@
 unit 10 Node Homework
 # liri-node-app
 
-**Creator**: `Komal Batra`
+**Creator**: `Christin Boner`
 
-**Created on**: `Oct 22nd 2018`
+**Created on**: `September 25, 2019`
 
 - - -
 
@@ -23,7 +23,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 ## HOW TO USE LIRI
 ### **Video Guide**
 
-Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xHcxFMZR9/view
+Watch the video here: https://drive.google.com/file/d/18IKtlf8qwnN6IrCQdL-qubGmekn4zLot/view
 
 ### **Step by Step instructions**
 
@@ -37,7 +37,7 @@ Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xH
     
     Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](/screenshots/concert_this_results.PNG)
+    ![Results](/screenshots/ConcertThis.PNG)
 
     **Example 2**: Run the `spotify-this-song` command
     
@@ -45,7 +45,7 @@ Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xH
     
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](/screenshots/spotify_this_results.PNG)
+    ![Results](/screenshots/SpotifyThis.PNG)
 
     **Example 3**: Run the `movie-this` command
     
@@ -53,7 +53,7 @@ Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xH
     
     Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](/screenshots/movie_this_results.PNG)
+    ![Results](/screenshots/MovieThis.PNG)
 
 
     **Example 4**: Run the `do-what-it-says` command
@@ -64,7 +64,7 @@ Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xH
     
     See screen-shot below:
 
-    ![Results](/screenshots/dothis_this_results.PNG)
+    ![Results](/screenshots/DoThis.PNG)
 
 - - -
 
